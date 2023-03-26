@@ -1,0 +1,18 @@
+  [
+    
+    {
+    "name": "dev",
+    "bgColor": "#1b2028",
+    "mainColor": "#23a9d5",
+    "subColor": "#4b5975",
+    "textColor": "#ccccb5"
+  },
+  {
+    "name": "light",
+    "bgColor": "#dae0f5",
+    "mainColor": "#506477",
+    "subColor": "#92a4be",
+    "textColor": "#678198"
+  }
+    
+ ]
